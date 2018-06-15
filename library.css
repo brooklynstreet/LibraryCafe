@@ -1,0 +1,100 @@
+.foot_tile
+{
+    width: 300px;
+    height: 370px;
+    padding: 30px;
+    float: left;
+    position: relative;
+    background-color: #ddd;
+}
+.foot_title >img
+{
+    width: 240px;
+    height: 240px;
+    position: relative;
+    margin: auto;
+}
+.headline
+{
+    color: #555;
+    font-size: 14pt;
+    margin: auto;
+    position: relative;
+    padding: 15px;
+    text-align: center;
+}
+.description
+{
+    color: #111;
+    font-size: 10pt;
+    margin: auto;
+    position: relative;
+    padding: 5px;
+    text-align: center;
+}
+.container-fluid
+{
+    background-color: rgba(0,0,0,0.8);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 100;
+    visibility: hidden;
+}
+.price
+{
+    color: #111;
+    font-size: 12pt;
+    margin: auto;
+    position: relative;
+    padding: 2px;
+    text-align: center;
+}
+.popupBackground
+{
+    background-color: rgba(0,0,0,0.8);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 100;
+    visibility: hidden;
+}
+.popup
+{
+    background-color: rgba(255, 165, 0, 0.8);
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    margin-top: auto;
+    position: relative;
+    padding: 20px;
+    z-index: 101;
+    text-align: center;
+    visibility: hidden;
+}
+.wait_confirm
+{
+    height: auto;
+    margin: auto;
+}
+.wait_confirm_table
+{
+    
+}
+.confirmed
+{
+    height: auto;
+    margin: auto;
+}
+.confirm_table
+{
+    
+}
+h1
+{
+    color: white;
+}
+body
+{
+    color: white;
+}
